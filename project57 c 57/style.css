@@ -1,0 +1,31 @@
+h1{
+ text-align: center; 
+    font:  serif;
+     background: 
+}
+
+img{
+  width:300px;  
+    border-radius:10%;
+    image-orientation: center;
+}
+
+h3{
+  text-align: center;  
+
+   text-decoration: underline; 
+}
+
+body{
+    
+    
+    background-color:linear-gradient(to top right, #ffcc99 0%, #ff99cc 100%);
+    
+    
+} 
+
+
+
+div {
+    background: linear-gradient(to top left, #3333cc 0%, #ff99cc 100%);
+}
